@@ -11,6 +11,7 @@ namespace ClassDemoUDPprogramming
 
 
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
